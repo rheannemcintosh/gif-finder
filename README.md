@@ -14,7 +14,7 @@ The original application was inspired by the Treehouse workshop, [Data Fetching 
 - [x] Update Repository
 - [x] Update README
 - [x] Create Future Ideas
-- [ ] Write Application Setup / Commands
+- [x] Write Application Setup / Commands
 - [ ] Launch Website
 - [ ] Create Card on Portfolio
 - [ ] Create Page on Portfolio
