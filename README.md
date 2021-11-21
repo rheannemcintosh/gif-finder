@@ -31,8 +31,15 @@ The original application was inspired by the Treehouse workshop, [Data Fetching 
 - **Author:** Rheanne McIntosh
 - **100 Days of Treehouse:** Day 102 / 100
 
-<!-- ## Application Setup / Commands
-1. Simply open `index.html` in a browser and you should be able to view the project locally. -->
+## Application Setup / Commands
+1. Run the following command first to install all necessary packages.
+```
+npm install
+```
+2. Then run the following command to view the application locally.
+```
+npm start
+```
 
 <hr>
 
