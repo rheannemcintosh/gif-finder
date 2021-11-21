@@ -32,14 +32,15 @@ The original application was inspired by the Treehouse workshop, [Data Fetching 
 - **100 Days of Treehouse:** Day 102 / 100
 
 ## Application Setup / Commands
-1. Run the following command first to install all necessary packages.
+1. Run the following command first to install all necessary packages:
 ```
 npm install
 ```
-2. Then run the following command to view the application locally.
+2. Then run the following command to view the application locally:
 ```
 npm start
 ```
+3. You should now have a local version of the GIF Finder Application!
 
 <hr>
 
