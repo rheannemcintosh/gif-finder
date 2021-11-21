@@ -13,7 +13,7 @@ The original application was inspired by the Treehouse workshop, [Data Fetching 
 - [x] Format Code
 - [ ] Update Repository
 - [ ] Update README
-- [ ] Create Future Ideas
+- [x] Create Future Ideas
 - [ ] Write Application Setup / Commands
 - [ ] Launch Website
 - [ ] Create Card on Portfolio
@@ -21,8 +21,8 @@ The original application was inspired by the Treehouse workshop, [Data Fetching 
 - [ ] Archive Repository
 
 ## Future Ideas
-:bulb: Display the search term on screen
-:bulb: Add a delete button to the search bar
+- :bulb: Display the search term on screen
+- :bulb: Add a delete button to the search bar
 
 ## Notes
 - **Language:** React.js
