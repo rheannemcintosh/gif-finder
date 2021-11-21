@@ -1,7 +1,7 @@
-# Gif Finder :movie_camera:
+# GIF Finder :movie_camera:
 
 ## Project Overview
-The Gif Finder is a React application which allows users to search for a Gif using the [GIPHY API](https://developers.giphy.com/), which I created at the start of my React journey.
+The GIF Finder is a React application which allows users to search for a GIF using the [GIPHY API](https://developers.giphy.com/), which I created at the start of my React journey.
 
 ### Inspiration
 The original application was inspired by the Treehouse workshop, [Data Fetching in React](https://teamtreehouse.com/library/data-fetching-in-react). This was also a part of my **100 Days of Code Challenge** with Team Treehouse.
@@ -11,7 +11,7 @@ The original application was inspired by the Treehouse workshop, [Data Fetching 
 ## Repository Checklist
 - [x] Upload Code
 - [x] Format Code
-- [ ] Update Repository
+- [x] Update Repository
 - [x] Update README
 - [x] Create Future Ideas
 - [ ] Write Application Setup / Commands
