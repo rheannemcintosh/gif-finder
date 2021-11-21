@@ -12,7 +12,7 @@ The original application was inspired by the Treehouse workshop, [Data Fetching 
 - [x] Upload Code
 - [x] Format Code
 - [ ] Update Repository
-- [ ] Update README
+- [x] Update README
 - [x] Create Future Ideas
 - [ ] Write Application Setup / Commands
 - [ ] Launch Website
@@ -25,8 +25,8 @@ The original application was inspired by the Treehouse workshop, [Data Fetching 
 - :bulb: Add a delete button to the search bar
 
 ## Notes
-- **Language:** React.js
-- **Tags:** React.js, GIPHY API
+- **Language:** React
+- **Tags:** React, GIPHY API
 - **Tutorial:** [Data Fetching in React](https://teamtreehouse.com/library/data-fetching-in-react)
 - **Author:** Rheanne McIntosh
 - **100 Days of Treehouse:** Day 102 / 100
